@@ -1,0 +1,7 @@
+D:\Alex\For with While\Practice For with While\Practice For with While\bin\Debug\Practice For with While.exe.config
+D:\Alex\For with While\Practice For with While\Practice For with While\bin\Debug\Practice For with While.exe
+D:\Alex\For with While\Practice For with While\Practice For with While\bin\Debug\Practice For with While.pdb
+D:\Alex\For with While\Practice For with While\Practice For with While\obj\Debug\Practice For with While.csprojAssemblyReference.cache
+D:\Alex\For with While\Practice For with While\Practice For with While\obj\Debug\Practice For with While.csproj.CoreCompileInputs.cache
+D:\Alex\For with While\Practice For with While\Practice For with While\obj\Debug\Practice For with While.exe
+D:\Alex\For with While\Practice For with While\Practice For with While\obj\Debug\Practice For with While.pdb
